@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=900&color=00e5ff&center=true&lines=CYBER-4RMY;BONSOIR+(^_^)" alt="CYBER-MRINAL" />
 </p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CYBER-4RMY&label=VISITORS&size=100&color=0e75b6&style=flat-rounded" alt="Profile Views" />
-</div>
 <hr>
 
 <h2 align="center">⚙️ [STORAGE]</h2>
@@ -13,7 +10,7 @@
 </p>
 <hr>
 
-<h2 align="center">📈 [GITHUB ANALYTICS]</h2>
+<h2 align="center">📈 [GITHUB ANALYTICS]-[<img src="https://komarev.com/ghpvc/?username=CYBER-4RMY&label=VISITORS&size=100&color=0e75b6&style=flat-rounded" alt="Profile Views" />]</h2>
 <div align="center">
   <img width="90%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br><br>
